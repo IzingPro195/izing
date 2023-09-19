@@ -1,0 +1,8 @@
+{
+  "input": "./src",
+  "output": "./src/locales",
+  "locales": ["pt", "fr"],
+  "extension": ".json",
+  "vueFiles": ["**/*.vue"]
+}
+
